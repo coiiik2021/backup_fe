@@ -315,7 +315,7 @@ export default function MaintenancePage() {
                     className="mt-16 pt-8 border-t border-gray-200"
                 >
                     <p className="text-gray-400 text-sm">
-                        © 2025 Ebay Express. All rights reserved.
+                        © 2018 ConKin.vn. All rights reserved.
                     </p>
                 </motion.div>
             </div>
